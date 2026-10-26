@@ -1,0 +1,6 @@
+build/
+.venv/
+tools/snaps/
+tools/*.bin
+__pycache__/
+.DS_Store
